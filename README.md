@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Auto_Evaluazer](https://github.com/Ricky2054/Auto_Evaluazer)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **react.js, ML, Django**
+- 💬 Ask me about **AI, ML, Flask**
 
 - 📫 How to reach me **deyricky36@gmail.com**
 
