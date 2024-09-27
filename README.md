@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricky Dey</h1>
-<h3 align="center">Programmer(C,PYTHON, JAVA) || Back-end Developer || Machine Learning || Prompt Engineering || GDSC(TINT) AI Lead</h3>
+<h3 align="center">Programmer(C,PYTHON, JAVA) || Back-end Developer || Machine Learning || Prompt Engineering || GDSC(TINT) AI Lead || ACM (TINT) Core Member</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricky2054&label=Profile%20views&color=0e75b6&style=flat" alt="ricky2054" /> </p>
 
