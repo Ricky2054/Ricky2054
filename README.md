@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **react.js, ML, Django**
+- 💬 Ask me about **react.js, ML, Python**
 
 - 📫 How to reach me **deyricky36@gmail.com**
 
