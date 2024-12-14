@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricky2054" alt="ricky2054" /></a> </p>
 
-- 🔭 I’m currently working on [Auto_Evaluazer](https://github.com/Ricky2054/Auto_Evaluazer)
+- 🔭 I’m currently working on [Auto_Evaluazer](https://github.com/Ricky2054/Auto_Evaluazer),[SkillHive](https://github.com/Ricky2054/SkillHive)
 
 - 🌱 I’m currently learning **react.js**
 
