@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **deyricky36@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1JSlqkzj6d5MjSO_l1MUIlyNzm3yBrosc/view)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1wwNqQRqqfvHpG0gLO2RWsT92YiMsCd58/view)
 
 - ⚡ Fun fact **Pursing BTech CSE with a passion in global trends**
 
